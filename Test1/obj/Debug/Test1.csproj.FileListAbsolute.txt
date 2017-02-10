@@ -1,0 +1,53 @@
+D:\Test-imdb\Test1\Test1\bin\Debug\Test1.exe.config
+D:\Test-imdb\Test1\Test1\bin\Debug\Test1.exe
+D:\Test-imdb\Test1\Test1\bin\Debug\Test1.pdb
+D:\Test-imdb\Test1\Test1\obj\Debug\Test1.csprojResolveAssemblyReference.cache
+D:\Test-imdb\Test1\Test1\obj\Debug\Test1.Properties.Resources.resources
+D:\Test-imdb\Test1\Test1\obj\Debug\Test1.csproj.GenerateResource.Cache
+D:\Test-imdb\Test1\Test1\obj\Debug\Test1.exe
+D:\Test-imdb\Test1\Test1\obj\Debug\Test1.pdb
+D:\Test-imdb\Test1\Test1\obj\Debug\Test1.Form2.resources
+D:\Test-imdb\Test1\Test1\obj\Debug\Test1.Alarm.resources
+D:\Test-imdb\Test1\Test1\obj\Debug\Test1.Cpu.resources
+D:\Test-imdb\Test1\Test1\obj\Debug\Test1.Fade.resources
+D:\Test-imdb\Test1\Test1\obj\Debug\Test1.Volume.resources
+D:\Test-imdb\Test1\Test1\obj\Debug\Test1.battery.resources
+D:\Test-imdb\Test1\Test1\obj\Debug\Test1.Testsys.resources
+D:\Test-imdb\Test1\Test1\obj\Debug\Test1.Datareading.resources
+D:\Test-imdb\Test1\Test1\obj\Debug\Test1.Move.resources
+D:\Test-imdb\Test1\Test1\bin\Debug\Interop.WMPLib.dll
+D:\Test-imdb\Test1\Test1\bin\Debug\AxInterop.WMPLib.dll
+D:\Test-imdb\Test1\Test1\obj\Debug\Interop.WMPLib.dll
+D:\Test-imdb\Test1\Test1\obj\Debug\AxInterop.WMPLib.dll
+D:\Test-imdb\Test1\Test1\obj\Debug\Test1.csproj.ResolveComReference.cache
+D:\Test-imdb\Test1\Test1\obj\Debug\Test1.CP.resources
+D:\Test-imdb\Test1\Test1\obj\Debug\Test1.radar.resources
+D:\Test-imdb\Test1\Test1\obj\Debug\Test1.IV.resources
+C:\Users\tamyh\Desktop\Test1\Test1\bin\Debug\Test1.exe.config
+C:\Users\tamyh\Desktop\Test1\Test1\obj\Debug\Interop.WMPLib.dll
+C:\Users\tamyh\Desktop\Test1\Test1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\tamyh\Desktop\Test1\Test1\obj\Debug\Test1.csproj.ResolveComReference.cache
+C:\Users\tamyh\Desktop\Test1\Test1\obj\Debug\Test1.exe
+C:\Users\tamyh\Desktop\Test1\Test1\obj\Debug\Test1.pdb
+C:\Users\tamyh\Desktop\Test1\Test1\bin\Debug\Test1.exe
+C:\Users\tamyh\Desktop\Test1\Test1\bin\Debug\Test1.pdb
+C:\Users\tamyh\Desktop\Test1\Test1\bin\Debug\Interop.WMPLib.dll
+C:\Users\tamyh\Desktop\Test1\Test1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\tamyh\Desktop\Test1\Test1\obj\Debug\Test1.csprojResolveAssemblyReference.cache
+C:\Users\tamyh\Desktop\Test1\Test1\obj\Debug\Test1.Datareading.resources
+C:\Users\tamyh\Desktop\Test1\Test1\obj\Debug\Test1.Properties.Resources.resources
+C:\Users\tamyh\Desktop\Test1\Test1\obj\Debug\Test1.csproj.GenerateResource.Cache
+C:\Users\tamyh\Desktop\Wikipedia Reader\Test1\bin\Debug\Test1.exe.config
+C:\Users\tamyh\Desktop\Wikipedia Reader\Test1\obj\Debug\Interop.WMPLib.dll
+C:\Users\tamyh\Desktop\Wikipedia Reader\Test1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\tamyh\Desktop\Wikipedia Reader\Test1\obj\Debug\Test1.csproj.ResolveComReference.cache
+C:\Users\tamyh\Desktop\Wikipedia Reader\Test1\obj\Debug\Test1.exe
+C:\Users\tamyh\Desktop\Wikipedia Reader\Test1\obj\Debug\Test1.pdb
+C:\Users\tamyh\Desktop\Wikipedia Reader\Test1\obj\Debug\Test1.csprojResolveAssemblyReference.cache
+C:\Users\tamyh\Desktop\Wikipedia Reader\Test1\obj\Debug\Test1.Datareading.resources
+C:\Users\tamyh\Desktop\Wikipedia Reader\Test1\obj\Debug\Test1.csproj.GenerateResource.Cache
+C:\Users\tamyh\Desktop\Wikipedia Reader\Test1\bin\Debug\Test1.exe
+C:\Users\tamyh\Desktop\Wikipedia Reader\Test1\bin\Debug\Test1.pdb
+C:\Users\tamyh\Desktop\Wikipedia Reader\Test1\bin\Debug\Interop.WMPLib.dll
+C:\Users\tamyh\Desktop\Wikipedia Reader\Test1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\tamyh\Desktop\Wikipedia Reader\Test1\obj\Debug\Test1.Properties.Resources.resources
